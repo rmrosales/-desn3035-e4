@@ -8,10 +8,10 @@ export default function Nav() {
                     <Link href="/" className="list-group-item list-group-item-action">
                         Home
                     </Link>
-                    <Link href="./about" className="list-group-item list-group-item-action">
+                    <Link href="/about" className="list-group-item list-group-item-action">
                         About Us
                     </Link>
-                    <Link href="./contact" className="list-group-item list-group-item-action">
+                    <Link href="/contact" className="list-group-item list-group-item-action">
                         Contact Us
                     </Link>
                 </div>
